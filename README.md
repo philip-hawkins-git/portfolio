@@ -12,3 +12,5 @@ In this hypothetical scenario, I am a junior data analyst working with the marke
 While R + Colab is great for exploration, it isn't the best for aesthetics. That's why I created a Tableau dashboard to present my findings in a more condensed and visually appealing manner. Take a look.
 
 [View Tableau](https://public.tableau.com/views/CyclisticBikeShareStudy_17406812554380/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Cyclistic Dashboard]([images/](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/master/images/CyclisticDashboard.png)
